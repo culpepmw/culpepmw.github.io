@@ -26,9 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Name of Link]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})
-
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
