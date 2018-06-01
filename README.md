@@ -26,13 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+[Name of Link]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
