@@ -1,3 +1,13 @@
+title: Matly's blog
+email: mat.culpepper@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A fun blog about my experiences, discoveries, trials, and triumphs.
+  This will mostly focus on polyamory, relationships, DevOps, and personal growth.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: culpepmw
+github_username:  culpepmw
+
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
